@@ -1,5 +1,5 @@
 
-# Transcription Summarization Lambda
+# AWS Lambda Transcript Summarizer using RunPod
 
 This AWS Lambda function automates the process of summarizing large audio transcriptions. It orchestrates a workflow that retrieves transcription files from S3, sends them to a RunPod Serverless AI endpoint for summarization, and stores the results back in S3.
 
